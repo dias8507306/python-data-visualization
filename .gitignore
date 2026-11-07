@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+mayavi_env/
+.vscode/
+.env
+.env.*
+!.env.example
+*.db
+node_modules/
+.vercel/

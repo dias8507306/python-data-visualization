@@ -1,0 +1,8 @@
+matplotlib>=3.7
+numpy>=1.24
+pandas>=2.0
+seaborn>=0.13
+plotly>=5.18
+# optional, for scripts/mayavi_*.py (needs VTK + Qt):
+# mayavi>=4.8
+# PyQt5>=5.15
